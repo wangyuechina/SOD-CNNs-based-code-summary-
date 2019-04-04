@@ -8,7 +8,17 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
 ## 2D RGB saliency detection
 ### 2019
 1.AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection. (CVPR)   
-The link is [here](https://github.com/ArcherFMY/AFNet).
+The link is [here](https://github.com/ArcherFMY/AFNet).      
+2.BASNet: Boundary Aware Salient Object Detection. (CVPR)   
+The link is [here](https://github.com/NathanUA/BASNet).      
+3.CPD: Cascaded Partial Decoder for Accurate and Fast Salient Object Detection. (CVPR)     
+The link is [here](https://github.com/wuzhe71/CPD-CVPR2019).      
+4.Deep Embedding Features for Salient Object Detection. (AAAI)             
+The link is [here](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw).    
+5.DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS. (arXiv)     
+The paper link is [here](https://arxiv.org/pdf/1904.01215.pdf).     
+6.SAC-Net: Spatial Attenuation Context for Salient Object Detection. (arXiv)   
+The paper link is [here](https://arxiv.org/pdf/1903.10152.pdf).       
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
@@ -16,7 +26,7 @@ The link is [here](https://github.com/zhangludl/A-bi-directional-message-passing
 2.PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection. (CVPR)  
 The link is [here](https://github.com/Ugness/PiCANet-Implementation).  
 3.PAGRN: Progressive Attention Guided Recurrent Network for Salient Object Detection. (CVPR)  
-The link is [here](https://github.com/zhangxiaoning666/PAGR).  
+The link is [here](https://github.com/zhangxiaoning666/PAGR) and [here](https://github.com/yangbinb/SalMetric/tree/master/PAGRN).   
 4.R3Net: Recurrent Residual Refinement Network for Saliency Detection. (IJCAI)  
 The link is [here](https://github.com/zijundeng/R3Net).  
 5.LFR: Salient Object Detection by Lossless Feature Reflection. (IJCAI)  
@@ -37,6 +47,8 @@ The link is [here](https://github.com/lixin666/C2SNet).
 The link is [here](https://github.com/ShuhanChen/RAS_ECCV18).   
 13. Detect Globally, Refine Locally: A Novel Approach to Saliency Detection. (CVPR)   
 The link is [here](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally).   
+14. Selectivity or Invariance: Boundary-aware Salient Object Detection. (arXiv)    
+The paper link is [here](https://arxiv.org/pdf/1812.10066.pdf).
 
 
 ### 2017
@@ -52,6 +64,8 @@ The link is [here](https://github.com/Pchank/caffe-sal).
 The link is [here](https://github.com/Pchank/caffe-sal).  
 6.Learning to Detect Salient Objects with Image-level Supervision. (CVPR)  
 The link is [here](https://github.com/scott89/WSS).  
+7.SalGAN: visual saliency prediction with adversarial networks. (CVPR)    
+The link is [here](https://github.com/imatge-upc/saliency-salgan-2017).
 
 ### 2016
 1.DHSNet Deep hierarchical saliency network for salient object detection. (CVPR)  
@@ -105,7 +119,7 @@ This is a paper list published by another author. [here](https://github.com/Arch
 [Here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all salient object detection algorithms.
 
 # The SOD dataset download
-1. 2D SOD datasets [download](https://github.com/ArcherFMY/sal_eval_toolbox).
+1. 2D SOD datasets [download1](https://github.com/TinyGrass/SODdataset) or [download2](https://github.com/ArcherFMY/sal_eval_toolbox).
 2. 3D SOD datasets [download](https://pan.baidu.com/s/1wXGyYtTcrUKyO2sdX3w6bA). Password:zb8z
 3. 4D SOD datasets [download](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).
 
